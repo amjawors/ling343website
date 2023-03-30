@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "newpage.html",
+    "href": "newpage.html",
+    "title": "my new page",
+    "section": "",
+    "text": "I have created an additional page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ling343website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

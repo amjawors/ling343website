@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "ling343website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - newpage.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
